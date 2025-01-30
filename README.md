@@ -12,7 +12,7 @@
 
 Feel free to check out my projects and reach out if you want to connect or collaborate!
 
-- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dary-rukavytsyna-803811349/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.daryrukav@gmail.com
+- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/@darypy-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dary-rukavytsyna-803811349/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.daryrukav@gmail.com
 )
 
 ---
